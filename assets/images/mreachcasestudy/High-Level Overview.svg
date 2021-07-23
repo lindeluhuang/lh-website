@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="614px" viewBox="0 0 1000 614" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>High-Level Overview</title>
+    <g id="High-Level-Overview" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#EBEAE8" x="0" y="0" width="1000" height="614"></rect>
+        <g id="Group" transform="translate(57.000000, 130.000000)" fill="#000000">
+            <text id="Strategize" font-family="Overpass-Bold, Overpass" font-size="14" font-weight="bold">
+                <tspan x="0" y="14">Strategize</tspan>
+            </text>
+            <text id="We-collaborative-gai" font-family="Overpass-Regular, Overpass" font-size="10" font-weight="normal">
+                <tspan x="0" y="68">We collaborative gained alignment on </tspan>
+                <tspan x="0" y="81">the project goals and our main audience. </tspan>
+                <tspan x="0" y="94">We decided to focus on U-M faculty and </tspan>
+                <tspan x="0" y="107">community members from across </tspan>
+                <tspan x="0" y="120">Michigan. </tspan>
+            </text>
+            <text id="Project-Goal-Audienc" font-family="Overpass-Bold, Overpass" font-size="10" font-weight="bold">
+                <tspan x="0" y="36">Project Goal</tspan>
+                <tspan x="0" y="49">Audience</tspan>
+            </text>
+        </g>
+        <g id="Group-7-Copy-6" transform="translate(24.000000, 126.000000)">
+            <circle id="Oval" fill="#C29F17" cx="12" cy="12" r="12"></circle>
+            <text id="1" font-family="Overpass-Bold, Overpass" font-size="16" font-weight="bold" fill="#FFFFFF">
+                <tspan x="9" y="17">1</tspan>
+            </text>
+        </g>
+        <line x1="36.5" y1="149.5" x2="36.5" y2="346.5" id="Line-5" stroke="#929292" opacity="0.5" stroke-linecap="square"></line>
+        <text id="-" font-family="Overpass-Italic, Overpass" font-size="8" font-style="italic" font-weight="normal"></text>
+        <text id="-" font-family="Overpass-Italic, Overpass" font-size="10" font-style="italic" font-weight="normal"></text>
+        <g id="Group-6" transform="translate(814.000000, 385.000000)" fill="#000000">
+            <text id="Initial-Release" font-family="Overpass-Bold, Overpass" font-size="14" font-weight="bold">
+                <tspan x="0" y="14">Initial Release</tspan>
+            </text>
+            <text id="We-launched-the-site" font-family="Overpass-Regular, Overpass" font-size="10" font-weight="normal">
+                <tspan x="0" y="60">We launched the site in October </tspan>
+                <tspan x="0" y="73">2020 to our academic and </tspan>
+                <tspan x="0" y="86">community networks. We aim to get </tspan>
+                <tspan x="0" y="99">100 people on the plaftorm by April </tspan>
+                <tspan x="0" y="112">2021, and 1000 by 2022. Check </tspan>
+                <tspan x="0" y="125">back to see our progress!</tspan>
+            </text>
+            <text id="Public-Launch" font-family="Overpass-Bold, Overpass" font-size="10" font-weight="bold">
+                <tspan x="0" y="37">Public Launch</tspan>
+            </text>
+        </g>
+        <line x1="796.5" y1="346.5" x2="796" y2="389" id="Line-5-Copy-5" stroke="#929292" opacity="0.5" stroke-linecap="square" transform="translate(796.500000, 368.000000) rotate(-0.674037) translate(-796.500000, -368.000000) "></line>
+        <g id="Group-7-Copy-11" transform="translate(784.000000, 381.000000)">
+            <circle id="Oval" fill="#C29F17" cx="12" cy="12" r="12"></circle>
+            <text id="6" font-family="Overpass-Bold, Overpass" font-size="14" font-weight="bold" fill="#FFFFFF">
+                <tspan x="8" y="16">6</tspan>
+            </text>
+        </g>
+        <g id="Group-4" transform="translate(165.000000, 385.000000)" fill="#000000">
+            <text id="User-Interviews-User" font-family="Overpass-Bold, Overpass" font-size="10" font-weight="bold">
+                <tspan x="0" y="35">User Interviews</tspan>
+                <tspan x="0" y="48">User Co-Creation Session</tspan>
+                <tspan x="0" y="61">Key User Insights</tspan>
+                <tspan x="0" y="74">Personas</tspan>
+            </text>
+            <text id="Discover" font-family="Overpass-Bold, Overpass" font-size="14" font-weight="bold">
+                <tspan x="0" y="14">Discover</tspan>
+            </text>
+            <text id="We-spoke-to-our-end" font-family="Overpass-Regular, Overpass" font-size="10" font-weight="normal">
+                <tspan x="0" y="97">We spoke to our end users and organized co-</tspan>
+                <tspan x="0" y="110">creation sessions in order to learn about and </tspan>
+                <tspan x="0" y="123">learn with our audience. We gained key insights </tspan>
+                <tspan x="0" y="136">around process, motiviatons, connections, and </tspan>
+                <tspan x="0" y="149">partnerships, which we used to create user </tspan>
+                <tspan x="0" y="162">personas.</tspan>
+            </text>
+        </g>
+        <line x1="146.5" y1="346.5" x2="146" y2="389" id="Line-5-Copy" stroke="#929292" opacity="0.5" stroke-linecap="square" transform="translate(146.500000, 368.000000) rotate(-0.674037) translate(-146.500000, -368.000000) "></line>
+        <g id="Group-7-Copy-7" transform="translate(134.000000, 381.000000)">
+            <circle id="Oval" fill="#C29F17" cx="12" cy="12" r="12"></circle>
+            <text id="2" font-family="Overpass-Bold, Overpass" font-size="14" font-weight="bold" fill="#FFFFFF">
+                <tspan x="8" y="16">2</tspan>
+            </text>
+        </g>
+        <text id="-" font-family="Overpass-Italic, Overpass" font-size="8" font-style="italic" font-weight="normal"></text>
+        <text id="-" font-family="Overpass-Bold, Overpass" font-size="8" font-weight="bold"></text>
+        <g id="Group-2" transform="translate(345.000000, 127.000000)">
+            <text id="Concept-Development" font-family="Overpass-Bold, Overpass" font-size="10" font-weight="bold" fill="#000000">
+                <tspan x="0" y="36">Concept Development</tspan>
+                <tspan x="0" y="49">Implementation Exploration</tspan>
+                <tspan x="0" y="62">Paper Prototype</tspan>
+                <tspan x="0" y="75">User Testing</tspan>
+                <tspan x="0" y="88">Learnings and Pivot</tspan>
+            </text>
+            <text id="Prototype-(A):-Match" font-family="Overpass-Bold, Overpass" font-size="14" font-weight="bold" fill="#000000">
+                <tspan x="0" y="14">Prototype (A): Matching</tspan>
+            </text>
+            <text id="We-chose-a-matching" font-family="Overpass-Regular, Overpass" font-size="10" font-weight="normal" fill="#000000">
+                <tspan x="0" y="114">We chose a matching platform as our first </tspan>
+                <tspan x="0" y="127">experiment. Through user testing with paper </tspan>
+                <tspan x="0" y="140">protoyptes, we found that people wanted more </tspan>
+                <tspan x="0" y="153">than getting matched with a partner on a </tspan>
+                <tspan x="0" y="166">specific project.</tspan>
+            </text>
+            <text id="-" font-family="PlayfairDisplay-Bold, Playfair Display" font-size="10" font-weight="bold"></text>
+        </g>
+        <g id="Group-7-Copy-8" transform="translate(315.000000, 126.000000)">
+            <circle id="Oval" fill="#C29F17" cx="12" cy="12" r="12"></circle>
+            <text id="3" font-family="Overpass-Bold, Overpass" font-size="16" font-weight="bold" fill="#FFFFFF">
+                <tspan x="8" y="17">3</tspan>
+            </text>
+        </g>
+        <line x1="327" y1="149.5" x2="327" y2="346.5" id="Line-5-Copy-2" stroke="#929292" opacity="0.5" stroke-linecap="square"></line>
+        <text id="-" font-family="Overpass-Italic, Overpass" font-size="8" font-style="italic" font-weight="normal"></text>
+        <text id="-" font-family="Overpass-Italic, Overpass" font-size="10" font-style="italic" font-weight="normal"></text>
+        <g id="Group-5" transform="translate(490.000000, 385.000000)" fill="#000000">
+            <text id="Concept-Development-Copy" font-family="Overpass-Bold, Overpass" font-size="10" font-weight="bold">
+                <tspan x="0" y="37">Concept Development</tspan>
+                <tspan x="0" y="50">Implementation Exploration</tspan>
+                <tspan x="0" y="63">Paper Prototype</tspan>
+                <tspan x="0" y="76">User Testing</tspan>
+                <tspan x="0" y="89">Learnings and Pivot</tspan>
+            </text>
+            <text id="Prototype-(B):-Netwo" font-family="Overpass-Bold, Overpass" font-size="14" font-weight="bold">
+                <tspan x="0" y="14">Prototype (B): Network</tspan>
+            </text>
+            <text id="Our-second-iteration" font-family="Overpass-Regular, Overpass" font-size="10" font-weight="normal">
+                <tspan x="0" y="112">Our second iteration of the prototype took the </tspan>
+                <tspan x="0" y="125">angle of a network rather than a single matching </tspan>
+                <tspan x="0" y="138">resource. After testing in the field with </tspan>
+                <tspan x="0" y="151">wireframes, we saw that people needed more in </tspan>
+                <tspan x="0" y="164">a platform than just connections.</tspan>
+            </text>
+        </g>
+        <line x1="471.5" y1="346.5" x2="471" y2="389" id="Line-5-Copy-4" stroke="#929292" opacity="0.5" stroke-linecap="square" transform="translate(471.500000, 368.000000) rotate(-0.674037) translate(-471.500000, -368.000000) "></line>
+        <g id="Group-7-Copy-10" transform="translate(459.000000, 381.000000)">
+            <circle id="Oval" fill="#C29F17" cx="12" cy="12" r="12"></circle>
+            <text id="4" font-family="Overpass-Bold, Overpass" font-size="14" font-weight="bold" fill="#FFFFFF">
+                <tspan x="8" y="16">4</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(670.000000, 127.000000)" fill="#000000">
+            <text id="Concept-Development" font-family="Overpass-Bold, Overpass" font-size="10" font-weight="bold">
+                <tspan x="0" y="36">Concept Development</tspan>
+                <tspan x="0" y="49">Service Blueprint</tspan>
+                <tspan x="0" y="62">User Stories</tspan>
+                <tspan x="0" y="75">Wireframes</tspan>
+                <tspan x="0" y="88">UI Design</tspan>
+                <tspan x="0" y="101">No-Code Development</tspan>
+            </text>
+            <text id="Prototype-(C):-Hub" font-family="Overpass-Bold, Overpass" font-size="14" font-weight="bold">
+                <tspan x="0" y="14">Prototype (C): Hub</tspan>
+            </text>
+            <text id="Our-final-iteration" font-family="Overpass-Regular, Overpass" font-size="10" font-weight="normal">
+                <tspan x="0" y="122">Our final iteration before public release </tspan>
+                <tspan x="0" y="135">expanded on our network model, but added extra </tspan>
+                <tspan x="0" y="148">features like events and resources to create a </tspan>
+                <tspan x="0" y="161">community-engaged research hub. We built a full </tspan>
+                <tspan x="0" y="174">functioning app through the no-code platform </tspan>
+                <tspan x="0" y="187">Bubble.</tspan>
+            </text>
+        </g>
+        <g id="Group-7-Copy-9" transform="translate(639.000000, 126.000000)">
+            <circle id="Oval" fill="#C29F17" cx="12" cy="12" r="12"></circle>
+            <text id="5" font-family="Overpass-Bold, Overpass" font-size="16" font-weight="bold" fill="#FFFFFF">
+                <tspan x="8" y="17">5</tspan>
+            </text>
+        </g>
+        <line x1="651" y1="149.5" x2="651" y2="346.5" id="Line-5-Copy-3" stroke="#929292" opacity="0.5" stroke-linecap="square"></line>
+        <text id="-" font-family="Overpass-Italic, Overpass" font-size="8" font-style="italic" font-weight="normal"></text>
+        <text id="-" font-family="LucidaGrande, Lucida Grande" font-size="10" font-weight="normal"></text>
+        <rect id="Rectangle" fill="#979697" x="37" y="342" width="754" height="3"></rect>
+        <g id="Image-Title-Copy" transform="translate(287.000000, 40.000000)">
+            <rect id="Rectangle-Copy" fill="#C29F17" x="0" y="26" width="427" height="9"></rect>
+            <g id="ImageCaption" fill="#000000" fill-opacity="0.8" font-family="Overpass-Bold, Overpass" font-size="18" font-weight="bold" line-spacing="18">
+                <text id="SquareSpace-evaluati">
+                    <tspan x="17.498" y="16.8840637">M-REACH: New Product Development Process</tspan>
+                </text>
+            </g>
+        </g>
+        <circle id="Oval" fill="#C29F17" cx="37" cy="344" r="6"></circle>
+        <circle id="Oval-Copy" fill="#C29F17" cx="146" cy="344" r="6"></circle>
+        <circle id="Oval-Copy-4" fill="#C29F17" cx="326" cy="344" r="6"></circle>
+        <circle id="Oval-Copy-5" fill="#C29F17" cx="651" cy="344" r="6"></circle>
+        <circle id="Oval-Copy-2" fill="#C29F17" cx="471" cy="345" r="6"></circle>
+        <circle id="Oval-Copy-3" fill="#C29F17" cx="796" cy="344" r="6"></circle>
+    </g>
+</svg>

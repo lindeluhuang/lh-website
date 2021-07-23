@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2W7X3SQQSW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2W7X3SQQSW');
+</script>
+
+    <title>Linde Huang | The Wishing Wall</title>
+    <link rel="shortcut icon" href="assets/images/brand/LHOutline.png" />
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Overpass:300,700|Playfair+Display:800" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+    <!-- Scroll animations -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!--
+  -
+  -
+  -  Hello there, you curious person you. It's Linde here. Welcome to my site!
+  -
+  -
+-->
+
+
+</head>
+<header>
+    <nav class="sticky">
+        <div class="nav-logo">
+            <a href="index.html">
+                <img src="assets/images/brand/LHNameTitle.png" alt="Linde Huang Logo" id="lindeHuangLogo">
+            </a>
+        </div>
+        <div class="main-nav">
+            <ul>
+                <li><a href="index.html#work" class="nav-link">Work</a></li>
+                <li><a href="writing.html" class="nav-link">Writing</a></li>
+                <li><a href="about.html" class="nav-link">About</a></li>
+                <li><a href="https://www.linkedin.com/in/lindeluhuang" class="nav-link" target="_blank"><img
+                            src="assets/images/headerfooter/LinkedInLogo.png" class="icon-inline"></a></li>
+            </ul>
+        </div>
+    </nav>
+</header>
+
+<button onclick="topFunction()" id="scroll-to-top-btn"><img src="assets/images/headerfooter/scroll-to-top.png"
+    alt="Scroll to top button" class="top-button transform-scale"></button>
+
+<body>
+    <div class="container-grid">
+        <article>
+            <section id="top" data-color="wishingwall-color">
+                <h1 class="full-width wishingwall-color-h1" data-aos="fade-down" data-aos-duration="1500">
+                    The Wishing Wall
+                </h1>
+                <img src="assets/images/casestudiesall/CaseStudyWishingWall.png" alt="Wishing Wall Case Study"
+                    class="image-full-width">
+            </section>
+
+            <nav class="toc"></nav>
+
+            <article class="main-content">
+                <section class="content-start" id="projectDescription">
+                    <h2 class="partial-width wishingwall-color-h2">
+                        Project Description
+                    </h2>
+                    <p class="partial-width">
+                        I firmly believe that <strong>great designers are masters of their mediums</strong> and the
+                        Wishing Wall
+                        was a fun, low-stakes way
+                        for me to dig deeper into the medium of software. As simple as it was, this app gave me
+                        invaluable
+                        first-hand
+                        experience with <strong>front-end
+                            development using React</strong>.
+                    </p>
+                </section>
+
+                <section id="appFeatures">
+                <h3 class="partial-width">
+                    App Features
+                </h3>
+                <p class="partial-width">
+                    I created a Wishing Wall where people can anonymously post a wish and interact with other people’s
+                    wishes. This simple app allows users to:
+                </p>
+                <ul class="partial-width">
+                    <li>See people’s wishes</li>
+                    <li>Sort wishes by date added or top liked</li>
+                    <li>Shuffle wishes to see what strikes you</li>
+                    <li>Post your own wish</li>
+                    <li>Like wishes that call out to you</li>
+                </ul>
+            </section>
+
+            <section id="appCode">
+                <h3 class="partial-width">
+                    App Code
+                </h3>
+                <p class="partial-width">
+                    Since this was my first project using React, I was mostly trying to learn the basics of React
+                    structures
+                    with components, state, props and all that good stuff. After creating the basic outline for my app,
+                    I
+                    ran into challenges with my project that called me to look to external libraries for specific
+                    solutions:
+                </p>
+                <ul class="partial-width">
+                    <li><strong>React Router</strong>
+                        <br>Since I wanted a seamless way to navigate through the app, I implemented React Router to
+                        manage
+                        content transitions.
+                    </li>
+                    <li><strong>Redux</strong>
+                        <br>To manage state globally, I looked to Redux to create a scalable framework for loading,
+                        storing,
+                        and changing data.</li>
+                    <li><strong>Redux-Thunk</strong>
+                        <br>I used Thunk as a middleware platform to manage actions going into the Redux store. </li>
+                </ul>
+                <p class="partial-width">
+                    See my <a href="https://github.com/lindeluhuang/wishing-wall" target="_blank">full code on
+                        github</a>.
+                </p>
+            </section>
+
+            <section id="productPreview">
+                <h2 class="partial-width wishingwall-color-h2">
+                    Product Preview
+                </h2>
+                <p class="partial-width">
+                    Check it out the in-progress version of the Wishing Wall in the playground below, or in its full
+                    glory
+                    <a href="https://wishingwall.netlify.app/allwishes" target="_blank">here</a>.
+                </p>
+                <p class="partial-width"><em><strong>Note #1</strong>: At the moment I’ve only built the front-end, so no information is
+                    saved
+                    once the page is refreshed. Think of it as a fresh start...</em>
+                    <br><br>
+                </p>
+                <div class="full-width centered">
+                    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="618" height="550"
+                        src="https://wishingwall.netlify.app/allwishes" allowfullscreen></iframe>
+                    <br><br>
+                </div>
+            </section>
+
+                <section id="lessonsLearned">
+                <h2 class="partial-width wishingwall-color-h2">
+                    Lessons Learned
+                </h2>
+                <p class="partial-width">
+                    This simple app let me flex my JavaScript muscles through React, seeing an actual product come to
+                    life!
+                    It helps me <strong>appreciate the work that goes into coding the designs I create</strong>, both
+                    from a
+                    technical and experiential perspective.
+                </p>
+                <p class="partial-width">
+                    On the technical side, I learned a lot about the <strong>React library and some common
+                        integrations</strong>. I built components, passed down props, and set up a Redux store to enable
+                    scalable app interactivity. Though I know I’ve just skimmed the surface, I built up a foundation I
+                    can
+                    easily build off of as I start to build more complicated apps.
+                </p>
+                <p class="partial-width">
+                    And on the experience side, it was quite the ride. I <strong>got a taste of some development
+                        pains</strong>, from setting up the project to thinking through logic flows to refactoring over
+                    and
+                    over again. And of course debugging, oh the profound pain of debugging!!!
+                </p>
+                <p class="partial-width">
+                    But <strong>boy was it satisfying</strong> being able to see my app working and know I built it all
+                    myself. (With the help of many, many people contributing to open source code, of course.)
+                    Creating something with actual functionality is
+                    quite the rush, and indeed rather addicting!
+                </p>
+                <p class="partial-width">
+                    My next step is to integrate with a back-end database so the Wishing Wall can truly come to life.
+                    Stay
+                    tuned!
+                </p>
+            </section>
+
+
+                <p class="partial-width centered">
+                    <br><br><a href="index.html#personalProjects">Return to Work</a>
+                    <br>
+                    <img src="assets/images/brand/LHOutline.png" alt="Linde Huang minimal logo" class="page-end-logo">
+                </p>
+                </section>
+            </article>
+    </div>
+
+    <footer class="work-footer">
+        <p>© 2021 COPYRIGHT <br>Designed & Developed by Linde Huang</p>
+    </footer>
+</body>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
+<script src="assets/js/toc.js"></script>
+<script src="assets/js/header.js"></script>
+<script src="assets/js/scroll-to-top.js"></script>
+
+</html>

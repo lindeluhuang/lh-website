@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2W7X3SQQSW"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-2W7X3SQQSW');
+    </script>
+
+    <title>Linde Huang | Explorations in Interactivity</title>
+    <link rel="shortcut icon" href="assets/images/brand/LHOutline.png" />
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Overpass:300,700|Playfair+Display:800" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+    <!-- Scroll animations -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!--
+  -
+  -
+  -  Hello there, you curious person you. It's Linde here. Welcome to my site!
+  -
+  -
+-->
+
+
+</head>
+<header>
+    <nav class="sticky">
+        <div class="nav-logo">
+            <a href="index.html">
+                <img src="assets/images/brand/LHNameTitle.png" alt="Linde Huang Logo" id="lindeHuangLogo">
+            </a>
+        </div>
+        <div class="main-nav">
+            <ul>
+                <li><a href="index.html#work" class="nav-link">Work</a></li>
+                <li><a href="writing.html" class="nav-link">Writing</a></li>
+                <li><a href="about.html" class="nav-link">About</a></li>
+                <li><a href="https://www.linkedin.com/in/lindeluhuang" class="nav-link" target="_blank"><img
+                            src="assets/images/headerfooter/LinkedInLogo.png" class="icon-inline"></a></li>
+            </ul>
+        </div>
+    </nav>
+</header>
+
+<button onclick="topFunction()" id="scroll-to-top-btn"><img src="assets/images/headerfooter/scroll-to-top.png"
+        alt="Scroll to top button" class="top-button transform-scale"></button>
+
+<body>
+    <div class="container-grid">
+        <article>
+            <section id="top" data-color="explorationsinteractivity-color">
+                <h1 class="full-width explorationsinteractivity-color-h1" data-aos="fade-down" data-aos-duration="1500">
+                    Explorations in Interactivity
+                </h1>
+                <img src="assets/images/casestudiesall/CaseStudyExplorationsInteractivity.png"
+                    alt="Wishing Wall Case Study" class="image-full-width">
+            </section>
+
+            <nav class="toc"></nav>
+
+            <article class="main-content">
+                <section class="content-start" id="background">
+                    <h2 class="partial-width explorationsinteractivity-color-h2">
+                        Background
+                    </h2>
+                    <p class="partial-width">
+                        I’ve been using a lot of JavaScript libraries to add animation to my projects, and I realized
+                        that I didn’t know how they actually worked. I wanted to gain a deeper understanding of how
+                        interactivity works with <strong>HTML + CSS + vanilla JavaScript</strong>.
+                    </p>
+                    <p class="partial-width">
+                        I took some courses from <a href="https://www.superhi.com/" target="_blank">SuperHi</a> which
+                        gave me a foundation to do some exploration in web
+                        interactivity. These projects are some highlights of my work.
+                    </p>
+                </section>
+
+
+
+                <section id="musingsLanding">
+                    <h2 class="partial-width explorationsinteractivity-color-h2">
+                        Musings Landing Page
+                    </h2>
+                    <p class="partial-width">
+                        This is the first iteration of my landing page for my Musings app (full case study
+                        <a href=”lindeluhuang.com/work-musings.html” target=”_blank”>here</a>).
+                    </p>
+                    <p class="partial-width">
+                        The page features interactivity in the form of:
+                    </p>
+                    <ul class="partial-width">
+                        <li>Parallax with the word phrases
+                        </li>
+                        <li>Rotation on scroll
+                        </li>
+                        <li>Header shrinking on scroll
+                        </li>
+                        <li>Background color smoothly changing with each section
+                        </li>
+                        <li>Rotating stickers that appear on click (make sure your sound is turned on!)
+                        </li>
+                    </ul>
+                    <p class="partial-width">
+                        Check out the page below or <a href="https://lindeluhuang.github.io/js-experiment-6/"
+                            target="_blank">see the page in a separate tab</a>, and see the full code base on <a
+                            href="https://github.com/lindeluhuang/js-experiment-6" target="_blank">github</a>.
+                    </p>
+                    <div class="full-width centered">
+                        <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="618" height="550"
+                            src="https://lindeluhuang.github.io/js-experiment-6/" allowfullscreen></iframe>
+                        <br><br>
+                    </div>
+                </section>
+
+
+                <section id="interactiveTOC">
+                    <h2 class="partial-width explorationsinteractivity-color-h2">
+                        Interactive Table of Contents
+                    </h2>
+                    <p class="partial-width">
+                        On my portfolio website, I wanted to be in-depth about my work and my process, but the pages
+                        ended up being far too long and unusable. I decided to create an interactive table of contents
+                        to help the reader see what content was available and quickly navigate to the sections that are
+                        most interesting to them.
+                    </p>
+                    <p class="partial-width">
+                        The page features interactivity in the form of:
+                    </p>
+                    <ul class="partial-width">
+                        <li>Table of contents hidden until after scrolling past the main cover photo
+                        </li>
+                        <li>Sections highlighted when a user is reading that section
+                        </li>
+                        <li>Navigating easily to any section upon clicking the label
+                        </li>
+                        <li>On mobile, table of contents hidden and "go to top" button appears instead
+                        </li>
+                        <li>(On the back end:) Setup that automatically populates the labels based off h2 and h3 tags
+                        </li>
+                    </ul>
+                    <p class="partial-width">
+                        Check out the interactivity to the left of <em>this page you're on right now</em> (on larger
+                        screens).
+                </section>
+
+
+                <section id="dimSumPhoto">
+                    <h2 class="partial-width explorationsinteractivity-color-h2">
+                        Dim Sum Photo Fun
+                    </h2>
+                    <p class="partial-width">
+                        As a way to showcase interactivity with photos (as well as one of my favorite foods), I created
+                        a random photo burst collage for dim sum.
+                    </p>
+                    <p class="partial-width">
+                        The page features interactivity in the form of:
+                    </p>
+                    <ul class="partial-width">
+                        <li>Random photo bursts on hover
+                        </li>
+                        <li>Rotating photo displays on click
+                        </li>
+                        <li>A dynamic sidebar with menu selection
+                        </li>
+                    </ul>
+                    <p class="partial-width">
+                        Check out the page below or <a href="https://lindeluhuang.github.io/js-experiment-2/" target="_blank">see the page in a separate tab</a>, and see the full code base on <a
+                            href="https://github.com/lindeluhuang/js-experiment-2" target="_blank">github</a>.
+                    </p>
+                    <div class="full-width centered">
+                        <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="618" height="550"
+                            src="https://lindeluhuang.github.io/js-experiment-2/#" allowfullscreen></iframe>
+                        <br><br>
+                    </div>
+                </section>
+
+
+                <section id="lessonsLearned">
+                    <h2 class="partial-width explorationsinteractivity-color-h2">
+                        Lessons Learned
+                    </h2>
+                    <p class="partial-width">
+                        Building interactivity is fun! It really brings life to otherwise standard content and
+                        creates an <strong>interesting and memorable experience</strong> for the user.
+                    </p>
+                    <p class="partial-width">
+                        I really enjoyed playing around with CSS and JavaScript, getting a better understanding of how
+                        to use various attributes within the <strong>document</strong>, <strong>window</strong>, and
+                        <strong>event listeners</strong>.
+                    </p>
+                    <p class="partial-width">
+                        Learning how to implement parallax and scroll-based actions was a wild ride, but now that I’ve
+                        figured out the basic framework, it’s fun to iterate on what’s possible.
+                    </p>
+                    <p class="partial-width">
+                        Overall these explorations helped me gain deeper confidence in my <strong>HTML + CSS + JS
+                            skills</strong>, and I
+                        feel confident enough to tackle future web development projects with more sophistication—-and
+                        fun!
+                    </p>
+                </section>
+
+
+                <p class="partial-width centered">
+                    <br><br><a href="index.html#personalProjects">Return to Work</a>
+                    <br>
+                    <img src="assets/images/brand/LHOutline.png" alt="Linde Huang minimal logo" class="page-end-logo">
+                </p>
+                </section>
+            </article>
+    </div>
+
+    <footer class="work-footer">
+        <p>© 2021 COPYRIGHT <br>Designed & Developed by Linde Huang</p>
+    </footer>
+</body>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
+<script src="assets/js/toc.js"></script>
+<script src="assets/js/header.js"></script>
+<script src="assets/js/scroll-to-top.js"></script>
+
+</html>
