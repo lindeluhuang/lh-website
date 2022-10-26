@@ -179,7 +179,7 @@ section {
   grid-column: 1/-1;
   width: 100%;
   height: auto;
-  margin: 3rem 0;
+  margin: 0.5rem 0 3rem 0;
 }
 
 .image-partial-width {
@@ -311,6 +311,12 @@ h5.mreach {
 
 .quote-mreach {
   border-left: solid .08em var(--mreach-color);
+  padding: 1em 2em;
+  margin: 2em 0 3em 0;
+}
+
+.quote-preplanning {
+  border-left: solid .08em var(--preplanning-color);
   padding: 1em 2em;
   margin: 2em 0 3em 0;
 }
