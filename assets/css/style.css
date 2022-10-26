@@ -18,6 +18,7 @@
   --inprogress-color: #4A82BB;
   --mreach-color: #C29F17;
   --absnetwork-color: #5E5A9D;
+  --preplanning-color: #0E7874;
   --jottfulblog-color: #F09061;
   --diversityinresearch-color: #859C67;
   --musings-color: #7D8DB7;
@@ -351,11 +352,11 @@ strong {
 }
 
 ul, ol {
-  margin-top: 0
+  margin-top: .2em;
 }
 
 ul li, ol li {
-  margin-bottom: .8em;
+  margin-bottom: .6em;
   line-height: 1.6em;
   color: var(--dark-grey-color);
 }
@@ -425,6 +426,7 @@ ul li, ol li {
 .diversityinresearch-color-h2::after,
 .musings-color-h2::after,
 .explorationsinteractivity-color-h2::after,
+.preplanning-color-h2::after,
 .wishingwall-color-h2::after {
   content: "";
   position: relative;
@@ -467,6 +469,10 @@ ul li, ol li {
 
 .explorationsinteractivity-color-h2::after {
   border-bottom: 4px solid var(--explorationsinteractivity-color);
+}
+
+.preplanning-color-h2::after {
+  border-bottom: 4px solid var(--preplanning-color);
 }
 
 .wishingwall-color-h2::after {
